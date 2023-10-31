@@ -4,3 +4,27 @@
   padding: 2rem;
   text-align: center;
 }
+
+.app-container {
+  width: auto;
+  height: auto;
+}
+
+.clock-container {
+  width: 50%;
+  height: auto;
+  padding: 5px;
+  margin: auto;
+  border-radius: 1rem;
+}
+
+.control-panel-container {
+  width: 25%;
+  height: auto;
+  background-color: rgb(79, 79, 79);
+  margin: auto;
+  margin-top: 1rem;
+  border-radius: 2rem;
+  border: 5px solid rgba(0, 180, 255, 0.5);
+  color: rgb(0, 180, 255);
+}

@@ -1,0 +1,23 @@
+.clock {
+  width: 30%;
+  display: inline-block;
+  background-color: rgb(79, 79, 79);
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 2rem;
+  border: 5px solid rgba(0, 180, 255, 0.5);
+  color: rgb(0, 180, 255);
+  font-weight: bold;
+}
+
+.clock-name {
+  font-size: 1.5rem;
+  margin-bottom: -30%;
+  margin-top: 3%;
+  font-weight: bolder;
+}
+
+.clock-time {
+  font-size: 3rem;
+  margin-bottom: 3%;
+}

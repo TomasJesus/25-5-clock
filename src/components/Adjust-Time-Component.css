@@ -1,0 +1,35 @@
+.adjust-container {
+  display: inline-block;
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.adjust-button {
+  display: inline-block;
+  margin: 2%;
+  width: 30%;
+  height: auto;
+  color: rgb(0, 180, 255);
+  background-color: rgb(90, 90, 90);
+  border: 2px solid rgb(0, 180, 255);
+  background: transparent;
+  font-weight: bolder;
+  font-size: 2rem;
+  border-radius: 0.75rem;
+}
+
+.adjust-button:hover {
+  border: 2px solid rgb(0, 100, 140);
+}
+
+.adjust-button:hover:active {
+  background-color: rgb(50, 50, 50);
+}
+
+.adjust-text {
+  font-size: 1.5rem;
+  font-weight: bolder;
+  margin-bottom: -2%;
+  margin-top: -4%;
+}
